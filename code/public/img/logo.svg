@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="132px" height="34px" viewBox="0 0 132 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>SEARO + Rectangle 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="No-result" sketch:type="MSArtboardGroup" transform="translate(-122.000000, -64.000000)" fill="#FFFFFF">
+            <g id="SEARO-+-Rectangle-3" sketch:type="MSLayerGroup" transform="translate(121.000000, 55.000000)">
+                <text id="SEARO" sketch:type="MSTextLayer" font-family="Avenir" font-size="36" font-weight="686" letter-spacing="2">
+                    <tspan x="0" y="36">SEARO</tspan>
+                </text>
+                <rect id="Rectangle-3" fill-opacity="0.494112319" sketch:type="MSShapeGroup" transform="translate(126.363961, 36.363961) rotate(-45.000000) translate(-126.363961, -36.363961) " x="123.863961" y="29.863961" width="5" height="13"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

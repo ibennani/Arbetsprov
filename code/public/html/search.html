@@ -1,0 +1,37 @@
+<div class="row toppspace">
+  <div class="col-xs-12"></div>
+</div>
+
+<div class="row">
+  <div class="col-xs-1"></div>
+  <div class="col-xs-10">
+  	<div class="logo">
+		<object type="image/svg+xml" data="img/logo.svg" title="Search"></object>
+		<form ng-submit="searchsubmit()">
+			<i class="fa fa-search"></i>
+			<input type="text" ui-items="names" list="items" name="searchbox" id="searchbox" class="search" placeholder="Search for something..." ng-model="inputstring" autofocus />
+			<datalist id="items" class="datalista">
+				<option ng-repeat="contry in contryArray" value="{{contry}}">
+			</datalist>
+		</form>
+	</div>
+
+  </div>
+  <div class="col-xs-1"></div>
+</div>
+
+<div class="row" ng-if="showSearchHistory">
+	<div class="col-xs-1"></div>
+	<div class="col-xs-10 historywrapper">
+		<ul>
+			<li class="row" ng-repeat="sh in searchhistory">
+				<div class="col-xs-6">{{sh.name}}</div>
+				<div class="col-xs-6">{{sh.time}}</div>
+			</li>
+		</ul>
+	</div>
+	<div class="col-xs-1"></div>
+</div>
+
+
+

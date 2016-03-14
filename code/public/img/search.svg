@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>O + Rectangle 3 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="No-result" sketch:type="MSArtboardGroup" transform="translate(-49.000000, -173.000000)" fill="#FFFFFF">
+            <g id="O-+-Rectangle-3-Copy" sketch:type="MSLayerGroup" transform="translate(49.000000, 170.000000)">
+                <text id="O" sketch:type="MSTextLayer" font-family="Avenir" font-size="16.1632653" font-weight="686" letter-spacing="2">
+                    <tspan x="0" y="16">O</tspan>
+                </text>
+                <path d="M10.0571429,15.0567703 L11.6733869,13.4693878 L15.8756215,17.5965824 L14.2593774,19.183965 L10.0571429,15.0567703 L10.0571429,15.0567703 Z" id="Rectangle-3-Copy" fill-opacity="0.494112319" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

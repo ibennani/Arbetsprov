@@ -1,0 +1,106 @@
+/* Use Font-awesome instead of loading local fonts */ 
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    vertical-align: bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: #002650; /* Default color if the browser does not support gradient */
+    background: -webkit-linear-gradient(#002650, #3b57a6); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#002650, #3b57a6); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#002650, #3b57a6); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#002650, #3b57a6); /* Default syntax */
+}
+
+.logo {
+	width: 100%;
+}
+
+
+.toppspace {
+	margin-top: 10%;
+}
+
+
+.search  {
+  	height: 50px;
+   	width: 100%;
+  	border: none;
+  	background: #8090a6;
+  	border-radius: 5px;
+	font-family: arial;
+	font-size: 1.2em;
+	text-indent: 50px;
+	color: #ffffff;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	outline: none;
+}
+
+
+.fa-search { 
+  position: absolute;
+  top: 60px;
+  left: 30px;
+  color: #ffffff;
+  font-size: 1.8em;
+} 
+
+
+.datalista {
+	background-color: #8090a6;
+	color: #ffffff;
+  	font-size: 1.2em;
+}
+
+
+/* Style the placeholder in the searchbox */
+::-webkit-input-placeholder { 
+   color: #b2bac3;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: #b2bac3;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #b2bac3;  
+}
+
+:-ms-input-placeholder {  
+   color: #b2bac3;  
+}
+
+ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+li {
+	color: #ffffff;
+  	font-size: 1.2em;	
+  	text-align: left;
+  	list-style: none;
+  	padding: 10px;
+  	margin: 5px;
+}
+
+li:hover, li:focus {
+	background-color: rgba(255, 255, 255, 0.2);
+}
+
+.historywrapper {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 10px;
+	background-color: rgba(255, 255, 255, 0.2);		
+}
+
